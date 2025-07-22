@@ -1,5 +1,5 @@
 import React from 'react'
-import Hero from '../components/Hero/hero'
+import Hero from '../components/Hero/Hero'
 import Popular from '../components/Popular/Popular'
 import Offer from '../components/Offer/Offer'
 import New_collection from '../components/New collection/New_collection'
